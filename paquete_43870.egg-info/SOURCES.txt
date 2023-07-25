@@ -1,0 +1,8 @@
+setup.py
+paquete/__init__.py
+paquete/clases_estudiantes.py
+paquete/funciones_matematicas.py
+paquete_43870.egg-info/PKG-INFO
+paquete_43870.egg-info/SOURCES.txt
+paquete_43870.egg-info/dependency_links.txt
+paquete_43870.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+setup.py
+paquete/__init__.py
+paquete/clasepersona.py
+paquete/funciones_matematicas.py
+paquete/modulopaquete.py
+paquete_51325.egg-info/PKG-INFO
+paquete_51325.egg-info/SOURCES.txt
+paquete_51325.egg-info/dependency_links.txt
+paquete_51325.egg-info/top_level.txt
